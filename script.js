@@ -259,7 +259,7 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("yesBtn").addEventListener("click", function () {
                 content.innerHTML = `
 					<div style="text-align: center;">
-						<img src="pictures/love.gif" alt="Love GIF" style="display: block; margin: 0 auto;">
+						<img src="pictures/cute.webp" alt="Love GIF" style="display: block; margin: 0 auto;">
 						<p style="font-size: 24px;">Yaaaaaay! Thank you po!</p>
 					</div>
 				
